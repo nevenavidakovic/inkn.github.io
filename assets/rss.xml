@@ -2,16 +2,16 @@
 <rss version="2.0">
 	<channel>
 		<title> Ink N </title>
-		<link> index.html </link>
+		<link>https://nevenavidakovic.github.io/inkn.github.io/index.html</link>
 		<description> NEWS </description>
 			<item> 
 				<title> WORKHOURS </title>
-				<link> findus.html </link>
+				<link> https://nevenavidakovic.github.io/inkn.github.io/findus.html </link>
 				<description> Our workhours have been changed due to COVID-19 pandemic. </description>
 			</item>
 			<item>
 				<title> NEW SKETCHES </title>
-				<link> gallery.html </link>
+				<link> https://nevenavidakovic.github.io/inkn.github.io/gallery.html </link>
 				<description> We have added new tattoo sketches in different styles. </description>
 			</item>
 	</channel>
