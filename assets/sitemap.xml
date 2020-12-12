@@ -3,34 +3,34 @@
 	<url>
 		<loc> https://nevenavidakovic.github.io/inkn.github.io/index.html </loc>
 		<lastmod>2020-12-12</lastmod>
-		<changefreq>daily</lastmod>
+		<changefreq>daily</changefreq>
 		<priotity>0.9</priority>
 	</url>
 	
 	<url>
 		<loc> https://nevenavidakovic.github.io/inkn.github.io/gallery.html </loc>
 		<lastmod>2020-12-12</lastmod>
-		<changefreq>monthly</lastmod>
+		<changefreq>monthly</changefreq>
 		<priotity>0.7</priority>
 	</url>
 	
 	<url>
 		<url>https://nevenavidakovic.github.io/inkn.github.io/booking.html </url>
 		<lastmod>2020-12-12</lastmod>
-		<changefreq>monthly</lastmod>
+		<changefreq>monthly</changefreq>
 		<priotity>0.6</priority>
 	</url>
 	
 	<url>
 		<url> https://nevenavidakovic.github.io/inkn.github.io/findus.html</url>
 		<lastmod>2020-12-12</lastmod>
-		<changefreq>monthly</lastmod>
+		<changefreq>monthly</changefreq>
 		<priotity>0.7</priority>
 	</url>
 	<url>
 		<url> https://nevenavidakovic.github.io/inkn.github.io/aboutme.html</url>
 		<lastmod>2020-12-12</lastmod>
-		<changefreq>yearly</lastmod>
+		<changefreq>yearly</changefreq>
 		<priotity>0.5</priority>
 	</url>
 </urlset>
