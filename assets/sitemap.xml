@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemaps/0.9">
+	<url>
+		<loc> https://www.index</loc>
+		<lastmod>2020-12-12</lastmod>
+		<changefreq>daily</lastmod>
+		<priotity>0.9</priority>
+	</url>
+	
+	<url>
+		<loc> https://www.gallery </loc>
+		<lastmod>2020-12-12</lastmod>
+		<changefreq>monthly</lastmod>
+		<priotity>0.7</priority>
+	</url>
+	
+	<url>
+		<url>  https://www.booking </url>
+		<lastmod>2020-12-12</lastmod>
+		<changefreq>monthly</lastmod>
+		<priotity>0.6</priority>
+	</url>
+	
+	<url>
+		<url>  https://www.findus</url>
+		<lastmod>2020-12-12</lastmod>
+		<changefreq>monthly</lastmod>
+		<priotity>0.7</priority>
+	</url>
+	<url>
+		<url>  https://www.aboutme</url>
+		<lastmod>2020-12-12</lastmod>
+		<changefreq>yearly</lastmod>
+		<priotity>0.5</priority>
+	</url>
+</urlset>
